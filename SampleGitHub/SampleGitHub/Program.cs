@@ -11,6 +11,7 @@ namespace SampleGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Github");
+            Console.WriteLine("Second Change");
         }
     }
 }
